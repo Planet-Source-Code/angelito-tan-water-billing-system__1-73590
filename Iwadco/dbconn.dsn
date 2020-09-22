@@ -1,0 +1,7 @@
+[ODBC]
+DRIVER=SQL Server
+UID=iwadco_user
+DATABASE=iwadco_db
+WSID=CK-16
+APP=Visual Basic
+SERVER=ck-16\sql_server

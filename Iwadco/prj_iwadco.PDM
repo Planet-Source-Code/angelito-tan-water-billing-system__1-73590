@@ -1,0 +1,222 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\y0h_azakura87\Desktop\iwadco_exe
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+backup.exe=D:\vb projects\iwad-finale\backup.exe
+VB6STKIT.DLL=C:\Documents and Settings\y0h_azakura87\Desktop\VB6STKIT.DLL
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM32\uxtheme.dll=
+C:\WINDOWS\SYSTEM32\msimg32.dll=
+C:\Windows\System32\msstdfmt.dll=
+C:\Program Files\Common Files\System\ado\msado28.tlb=
+C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.6000.16386_none_87e0cb09378714f1\comctl32.dll=
+C:\WINDOWS\SYSTEM32\dao360.dll=
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\sqldmo.dll=
+C:\WINDOWS\SYSTEM32\shlwapi.dll=
+C:\iwax\backup.exe=
+C:\Documents and Settings\Administrator\Desktop\iwax\backup.exe=
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=
+D:\vb projects\iwax\backup.exe=
+D:\vb projects\iwad-finale\backup.exe=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM32\COMCT332.OCX=
+C:\WINDOWS\SYSTEM32\msmask32.ocx=
+C:\WINDOWS\SYSTEM32\PICCLP32.ocx=
+C:\WINDOWS\SYSTEM32\mschrt20.ocx=
+C:\WINDOWS\SYSTEM32\mscomct2.ocx=
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=
+C:\WINDOWS\SYSTEM32\comdlg32.ocx=
+C:\WINDOWS\SYSTEM32\MSRDO20.DLL=
+C:\WINDOWS\SYSTEM32\scrrun.dll=
+C:\WINDOWS\SYSTEM32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\MSWINSCK.OCX=
+C:\WINDOWS\SYSTEM32\richtx32.ocx=
+C:\WINDOWS\SYSTEM32\tabctl32.ocx=
+
+[Package|Standard Setup Package 1|Files Added]
+backup.exe=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\SYSTEM32\Msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM32\oleaut32.dll=Yes
+C:\WINDOWS\SYSTEM32\olepro32.dll=Yes
+C:\WINDOWS\SYSTEM32\asycfilt.dll=Yes
+C:\WINDOWS\SYSTEM32\stdole2.tlb=Yes
+C:\WINDOWS\SYSTEM32\msimg32.dll=Yes
+C:\WINDOWS\SYSTEM32\uxtheme.dll=Yes
+C:\WINDOWS\SYSTEM32\scrrun.dll=Yes
+C:\WINDOWS\SYSTEM32\msvcrt.dll=Yes
+C:\WINDOWS\SYSTEM32\MSRDC20.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSRDO20.DLL=Yes
+C:\WINDOWS\SYSTEM32\RDOCURS.DLL=Yes
+C:\WINDOWS\SYSTEM32\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM32\comdlg32.ocx=Yes
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM32\mscomct2.ocx=Yes
+C:\WINDOWS\SYSTEM32\richtx32.ocx=Yes
+C:\WINDOWS\SYSTEM32\mschrt20.ocx=Yes
+C:\WINDOWS\SYSTEM32\MSWINSCK.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSMAPI32.OCX=Yes
+C:\WINDOWS\SYSTEM32\MCI32.OCX=Yes
+C:\WINDOWS\SYSTEM32\PICCLP32.ocx=Yes
+C:\WINDOWS\SYSTEM32\SYSINFO.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSCOMM32.OCX=Yes
+C:\WINDOWS\SYSTEM32\msmask32.ocx=Yes
+C:\WINDOWS\SYSTEM32\MSDATGRD.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\SYSTEM32\MSDATLST.OCX=Yes
+C:\WINDOWS\SYSTEM32\COMCT332.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSADODC.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSHFLXGD.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSDBRPTR.DLL=Yes
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\WINDOWS\SYSTEM32\MSBIND.DLL=Yes
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\sqldmo.dll=Yes
+D:\vb projects\iwax\prj_iwadco.exe=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+D:\vb projects\iwad-finale\backup.exe=Yes
+C:\Documents and Settings\y0h_azakura87\Desktop\VB6STKIT.DLL=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Documents and Settings\jason\Desktop\Iwadco\prj_iwadco.exe=$(AppPath)
+C:\WINDOWS\SYSTEM32\Msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msimg32.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\uxtheme.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\richtx32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\mschrt20.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\PICCLP32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\msmask32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\SYSTEM32\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\jason\Desktop\2ndbackup\Iwadco\prj_iwadco.exe=$(AppPath)
+C:\Users\jason\Desktop\Iwadco\prj_iwadco.exe=$(AppPath)
+C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.6000.16386_none_87e0cb09378714f1\comctl32.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado28.tlb=$(WinSysPath)
+\\192.168.1.16\ck16.ck-16\Desktop\andito lhat\Iwadco\prj_iwadco.exe=$(AppPath)
+C:\Documents and Settings\ck-15\Desktop\Iwadco\prj_iwadco.exe=$(AppPath)
+C:\WINDOWS\SYSTEM32\shlwapi.dll=$(WinSysPath)
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\sqldmo.dll=$(AppPath)
+C:\WINDOWS\SYSTEM32\dao360.dll=$(WinSysPath)
+C:\iwax\prj_iwadco.exe=$(AppPath)
+C:\iwax\backup.exe=$(AppPath)
+C:\Documents and Settings\Administrator\Desktop\iwax\prj_iwadco.exe=$(AppPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(WinSysPath)
+C:\Documents and Settings\Administrator\Desktop\iwax\backup.exe=$(AppPath)
+D:\vb projects\iwax\prj_iwadco.exe=$(AppPath)
+D:\vb projects\iwax\backup.exe=$(AppPath)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\vb projects\iwad-finale\backup.exe=$(AppPath)
+C:\Documents and Settings\y0h_azakura87\Desktop\VB6STKIT.DLL=$(WinSysPathSysFile)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\jason\Desktop\Iwadco\prj_iwadco.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Documents and Settings\jason\Desktop\2ndbackup\Iwadco\prj_iwadco.exe=Yes
+C:\Users\jason\Desktop\Iwadco\prj_iwadco.exe=Yes
+\\192.168.1.16\ck16.ck-16\Desktop\andito lhat\Iwadco\prj_iwadco.exe=Yes
+C:\Documents and Settings\ck-15\Desktop\Iwadco\prj_iwadco.exe=Yes
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\sqldmo.dll=Yes
+C:\iwax\prj_iwadco.exe=Yes
+C:\iwax\backup.exe=Yes
+C:\Documents and Settings\Administrator\Desktop\iwax\prj_iwadco.exe=Yes
+C:\Documents and Settings\Administrator\Desktop\iwax\backup.exe=Yes
+D:\vb projects\iwax\prj_iwadco.exe=Yes
+D:\vb projects\iwax\backup.exe=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\vb projects\iwad-finale\backup.exe=Yes
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Iwadco Billing System
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\Documents and Settings\y0h_azakura87\Desktop\iwadco_exe
+ProjectFolder=D:\vb projects\iwax
+ServerSideCab=
+File1=C:\Documents and Settings\y0h_azakura87\Desktop\iwadco_exe\setup.exe
+File2=C:\Documents and Settings\y0h_azakura87\Desktop\iwadco_exe\Setup.Lst
+File3=C:\Documents and Settings\y0h_azakura87\Desktop\iwadco_exe\prj_iwadco.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Iwadco Billing System
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Iwadco Billing System]
+Icon1=prj_iwadco.exe
+Title1=Iwadco Billing System
+StartIn1=$(AppPath)
+Key1=Icon1
